@@ -13,3 +13,9 @@
 65 git push -u origin main
 66 touch notes.md
 67 history
+
+68 git status
+69 git add .
+70 git commit -m "add notes.md"
+71 git push
+72 history
